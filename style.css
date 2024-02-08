@@ -1,0 +1,29 @@
+*{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+}
+.container{
+      text-align: center;
+}
+body{
+      font-family: 'Open Sans', sans-serif;
+}
+.head{
+      font-size: 44px;
+      margin-top: 10%;
+}
+#of , #on{
+      width: 60px;
+      height: 36px;
+      color: black;
+      border: 2px solid black;
+      text-align: center;
+      margin-top: 5%;
+      background-color: white;
+      margin-inline: 22px;
+}
+#img{
+     width: 300px;
+     margin-top: 10%; 
+}
